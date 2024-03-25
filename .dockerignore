@@ -1,4 +1,5 @@
 compose.yaml
 install-flask.sh
 run-python-app.sh
+Dockerfile
 .dockerignore
