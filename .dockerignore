@@ -1,4 +1,5 @@
 compose.yaml
+compose-with-Dockerfile.yaml
 install-flask.sh
 run-python-app.sh
 Dockerfile
